@@ -7,3 +7,6 @@ Mentioned results can be seen and obtained from [here](https://dokuman.osym.gov.
 
 With this tool, I aimed to obtain separate worksheets according to common specialization area names of medical studies.
 After converting this result pdf to an excel file, with the help of this tool this aim is achieved.
+
+## Installation and Usage
+clone the repo, then install requirements. (openpyxl for excel files and inflection for string formatting)
